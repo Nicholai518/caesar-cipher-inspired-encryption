@@ -1,8 +1,10 @@
 # caesar-cipher-inspired-encryption
-This application can encrypt messages using similar methods Julius Caesar used to encrypt military significant messages.
+This application can encrypt messages using similar methods Julius Caesar used to encrypt military significant messages. The Encryption method "moves" or "Changes" characters by "3"
+EX: A -> D , B -> E , C -> F
 
 ## Operating System / IDE / JDK 
-- Built within Ubuntu Virtual Machine using Visual Studio Code. JDK 17
+- Built within Ubuntu Virtual Machine using Visual Studio Code. 
+- JDK 17
 
 ## How to compile & run
 ```
